@@ -1,6 +1,6 @@
 Hello!
-I'm make mods in rusted warfare, currently trying to finish Sky Five Infection!
-modding is cool
+I'm a Roblox Developer. Currently still learning, you can check out some of my stuff. Or not.
+_NOTE_ I suck at scripting
 
 <!---
 MarianJKs/MarianJKs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
